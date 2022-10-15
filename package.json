@@ -1,0 +1,15 @@
+{
+  "name": "riya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map scss/style.scss scss/main.css"
+  },
+  "author": "Riya Shrestha",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "sass": "^1.55.0"
+  }
+}
